@@ -35,7 +35,7 @@ async function check() {
             {
                 "text": `$${saladJson.lifetimeBalance.toFixed(2)}`,
                 "icon": "a1832",
-                "index": 0
+                "index": 1
             },
         ]
     };
