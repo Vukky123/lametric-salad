@@ -36,7 +36,7 @@ async function check() {
                 "text": `$${saladJson.lifetimeBalance.toFixed(2)}`,
                 "icon": "a1832",
                 "index": 1
-            },
+            }
         ]
     };
     console.log("Pushing to LaMetric!")
@@ -45,7 +45,7 @@ async function check() {
         body: JSON.stringify(lametricData),
         headers: { 'Accept': 'application/json', 'X-Access-Token': process.env.LAMETRIC_ACCESS_TOKEN, 'Cache-Control': 'no-cache' }
     })
-    console.log("Pushed!")
+    console.log("Pushed!\n")
 }
 
 check();
