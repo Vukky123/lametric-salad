@@ -1,7 +1,7 @@
 # lametric-salad
 **lametric-salad** is not affiliated with Salad Technologies, nor is it affiliated with LaMetric.
 
-**This application is no longer supported.** It appears as if Salad Technologies has decided to roll out a new auth token system, which this application sadly won't work with. Thank you for using it!
+**This application is no longer supported.** It appears as if Salad Technologies has decided to roll out a new auth token system, which this application may sadly not work with. Thank you for using it!
 
 ## Setup
 i uh please no keep the documentation away from me
